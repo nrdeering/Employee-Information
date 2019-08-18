@@ -1,3 +1,4 @@
+--Drop existing tables, putting the Primary Key tables at the bottom of the list
 DROP TABLE IF EXISTS Titles;
 DROP TABLE IF EXISTS Salaries;
 DROP TABLE IF EXISTS Department_Manager;
